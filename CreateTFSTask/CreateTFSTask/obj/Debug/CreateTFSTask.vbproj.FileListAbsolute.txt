@@ -22,3 +22,23 @@ D:\Bluedoor Files\WealthNET TFS\MyTFS\CreateTFSTask\CreateTFSTask\bin\Debug\Crea
 D:\Bluedoor Files\WealthNET TFS\MyTFS\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.exe
 D:\Bluedoor Files\WealthNET TFS\MyTFS\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.xml
 D:\Bluedoor Files\WealthNET TFS\MyTFS\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.pdb
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\CreateTFSTask.exe.config
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.exe
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.xml
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.pdb
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\CreateTFSTask.exe
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\CreateTFSTask.pdb
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\CreateTFSTask.xml
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\System.Net.Http.Formatting.dll
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\System.Web.Http.dll
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\System.Net.Http.Formatting.xml
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\System.Web.Http.xml
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\bin\Debug\Microsoft.WITDataStore.dll
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.vbprojResolveAssemblyReference.cache
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.frmCreateTask.resources
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.Resources.resources
+D:\Saurabh\TFSToJIRA\CreateTFSTask\CreateTFSTask\obj\Debug\CreateTFSTask.vbproj.GenerateResource.Cache

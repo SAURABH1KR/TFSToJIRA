@@ -38,7 +38,7 @@ Public Class frmCreateTask
                 MessageBox.Show(userStory.Id.ToString)
             End If
         Catch ex As Exception
-            MessageBox.Show("Unable to create a new TFS Task.")
+            MessageBox.Show("Unable to create a new TFS Task sdfsdf.")
         End Try
 
     End Sub
