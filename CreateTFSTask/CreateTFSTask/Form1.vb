@@ -29,7 +29,7 @@ Public Class frmCreateTask
             userStory.Fields("Timesheet Task").Value = "OMW-OD"
             userStory.Fields("Tags").Value = "OMW-OD"
             userStory.Fields("Defect Type").Value = "Existing Issue in Prior Release"
-            userStory.Fields("Iteration Path").Value = "Wealth.net 200708-001 UAT"
+            userStory.Fields("Iteration Path 1").Value = "Wealth.net 200708-001 UAT"
             userStory.Tags = txtJIRAID.Text
             userStory.Validate()
             If userStory.IsValid() Then
